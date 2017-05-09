@@ -1,3 +1,5 @@
+# Fishing Rod Wrap Designer - Javascript
+
 ## Technologies Used
   1. HTML
   2. CSS
@@ -6,6 +8,12 @@
 ## How To Install App
   1. Download zip file
   2. Open index.html file in browser
+
+---
+
+## Description
+
+##### Fishing Rod Wrap Designer is a simulator to show a user their color combinations before production starts on the fishing rod.  The app gives the user a realistic idea on the design, width and color choices made before production is started on making the fishing rod.  The user can pick from real thread MFG colors and change widths to create specific thread patterns.
 
 ---
 
